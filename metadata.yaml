@@ -1,0 +1,32 @@
+_repo: Misread-Passages-of-Scriptures_33515
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Brown, James Baldwin
+    aliases:
+    - Brown, Baldwin
+    - Brown, J. Baldwin (James Baldwin)
+    birthdate: 1820
+    deathdate: 1884
+    gutenberg_agent_id: '36448'
+    url: http://www.gutenberg.org/2009/agents/36448
+    wikipedia: http://en.wikipedia.org/wiki/James_Baldwin_Brown
+description: ''
+gutenberg_issued: '2010-08-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33515'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Congregational churches -- Sermons'
+- !lcc 'BS'
+- !lcsh 'Bible -- Criticism, interpretation, etc.'
+- !lcsh 'Sermons, English'
+title: Misread Passages of Scriptures
+url: http://www.gutenberg.org/ebooks/33515
